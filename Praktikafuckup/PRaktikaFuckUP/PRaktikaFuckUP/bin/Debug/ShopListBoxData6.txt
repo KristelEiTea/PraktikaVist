@@ -1,0 +1,1 @@
+[{"ShopName":null,"Cost":0.0,"Type":null,"Day":7},{"ShopName":"ahha","Cost":1224.0,"Type":"Food","Day":0}]
